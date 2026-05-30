@@ -1,8 +1,9 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "name": "GAMER-MD",
+  "description": "Javascript WhatsApp bot made by Gᴀᴍᴇʀ Tᴇᴄʜ",
+  "logo": "https://files.global.ALIVE_IMG = "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop"
+",
+  "keywords": ["Gᴀᴍᴇʀ-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +18,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: GAMER-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "GAMET-MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,14 +28,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 923497564728)",
       "required": false,
-      "value": "923427582273"
+      "value": "923497564728"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: Gᴀᴍᴇʀ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Gᴀᴍᴇʀ TᴇᴄʜX"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -164,7 +165,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by Gᴀᴍᴇʀ TᴇᴄʜX*"
     }
   },
   "buildpacks": [
